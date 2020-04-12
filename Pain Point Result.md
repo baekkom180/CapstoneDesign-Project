@@ -55,7 +55,7 @@
 
 장성욱
 
-<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%A5%EC%84%B1%EC%9A%B1.jpg" width="15%" height="15">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%A5%EC%84%B1%EC%9A%B1.jpg" width="15%" height="15%">
 
 ## 역할 분담
 임준묵 -- DB 구축
