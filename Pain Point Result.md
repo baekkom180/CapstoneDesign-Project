@@ -47,7 +47,7 @@
 ## 팀원
 임준묵
 
-<img src="C:\Users\baekk\Desktop\KakaoTalk_20200412_134156103.jpg" alt="KakaoTalk_20200412_134156103" style="zoom:33%;" />
+![]<img src="C:\Users\baekk\Desktop\KakaoTalk_20200412_134156103.jpg" alt="KakaoTalk_20200412_134156103" style="zoom:33%;" />
 
 최진규
 
@@ -55,7 +55,7 @@
 
 장성욱
 
-<img src="C:\Users\baekk\Desktop\KakaoTalk_20200412_134125060.jpg" alt="KakaoTalk_20200412_134125060" style="zoom:33%;" />
+![]<img src="C:\Users\baekk\Desktop\KakaoTalk_20200412_134125060.jpg" alt="KakaoTalk_20200412_134125060" style="zoom:33%;" />
 
 ## 역할 분담
 임준묵 -- DB 구축
