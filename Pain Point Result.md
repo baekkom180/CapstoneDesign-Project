@@ -35,7 +35,7 @@
 
 
 
-###### <img src="C:\Users\baekk\Desktop\KakaoTalk_20200412_143136164.png" alt="KakaoTalk_20200412_143136164"  />
+###### <img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EA%B5%AC%EC%83%81%EB%8F%84.png" >
 
 
 
