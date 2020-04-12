@@ -55,7 +55,7 @@
 
 장성욱
 
-<img src="C:\Users\baekk\Desktop\KakaoTalk_20200412_134125060.jpg" alt="KakaoTalk_20200412_134125060" style="zoom:33%;" />
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%A5%EC%84%B1%EC%9A%B1.jpg" width="50%" height="50%">
 
 ## 역할 분담
 임준묵 -- DB 구축
