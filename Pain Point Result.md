@@ -47,15 +47,15 @@
 ## 팀원
 임준묵
 
-<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%84%EC%A4%80%EB%AC%B5.jpg" alt="KakaoTalk_20200412_134156103" style="zoom:5%;" />
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%84%EC%A4%80%EB%AC%B5.jpg" width="15%" height="15%">
 
 최진규
 
-[KakaoTalk_20200412_134047280](C:\Users\baekk\Desktop\KakaoTalk_20200412_134047280.jpg)
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%B5%9C%EC%A7%84%EA%B7%9C.jpg" width="15%" height="15%">
 
 장성욱
 
-<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%A5%EC%84%B1%EC%9A%B1.jpg" width="50%" height="50%">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%A5%EC%84%B1%EC%9A%B1.jpg" width="15%" height="15">
 
 ## 역할 분담
 임준묵 -- DB 구축
