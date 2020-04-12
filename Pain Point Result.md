@@ -47,7 +47,7 @@
 ## 팀원
 임준묵
 
-<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%84%EC%A4%80%EB%AC%B5.jpg" alt="KakaoTalk_20200412_134156103" style="zoom:33%;" />
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%84%EC%A4%80%EB%AC%B5.jpg" alt="KakaoTalk_20200412_134156103" style="zoom:15%;" />
 
 최진규
 
