@@ -81,11 +81,11 @@ IoT 기술을 이용하여, 이러한 문제점을 가진 기존 보호격막을
 <img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%9E%A5%EC%84%B1%EC%9A%B1.jpg" width="15%" height="15%">
 
 ## 역할 분담
-임준묵 -- DB 구축
+임준묵 -- 센서 부착 및 작동 확인
 
-최진규 -- 서버 구축
+최진규 -- 구동 알고리즘 작성
 
-장성욱 -- 센서담당 및 기획
+장성욱 -- 서버 구축 및 관리
 
 ## 개발 환경
 개발 도구 :: GitHub, Slack, mysql
