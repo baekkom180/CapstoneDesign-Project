@@ -12,7 +12,7 @@
 택시기사들은 늘 차에 탑승한 탑승객으로부터 폭행의 위협을 받습니다.
 밤 늦은 시간대, 만취한 승객이 택시기사를 폭행했다는 뉴스는 심심찮게 이슈화되곤 합니다.
 
-<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처1.PNG" width="15%" height="15%">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처1.PNG" width="40%" height="30%">
 <img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처2.PNG" width="15%" height="15%">
 <img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처3.PNG" width="15%" height="15%">
 <img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처4.PNG" width="15%" height="15%">
