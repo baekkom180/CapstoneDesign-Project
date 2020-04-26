@@ -9,11 +9,20 @@
 
 ## Pain Point
 
-많은 사람들이 외로운 현대인의 생활을 달래기 위해서 반려견을 기르곤 합니다. 
-하지만 반려견을 기르는 것은 물질적으로 시간적으로 많은 노력이 필요하기에
-대체재로 식물을 기르는 사람이 많습니다. 다들 가정에 반려견, 반려묘는 없어도 하나씩은 화분을 놔두는 이러한 상황에서
-종합적으로 식물을 더 잘 기를 수 있도록 하는 서비스를 제공하고자 합니다.
+택시기사들은 늘 차에 탑승한 탑승객으로부터 폭행의 위협을 받습니다.
+밤 늦은 시간대, 만취한 승객이 택시기사를 폭행했다는 뉴스는 심심찮게 이슈화되곤 합니다.
 
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처1.PNG" width="15%" height="15%">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처2.PNG" width="15%" height="15%">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처3.PNG" width="15%" height="15%">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처4.PNG" width="15%" height="15%">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/캡처5.PNG" width="15%" height="15%">
+
+이러한 종류의 폭행은 단순히 택시기사의 생명을 위협할 뿐만 아니라
+도로위의 다른 운전자, 보행자, 심지어 폭행 가해자까지도 위험한 안전 사고로 이어질 수 있습니다.
+
+보호격막 설치가 제대로 실행되고 있지 않고 있는 지금,
+저희는 IoT 기술을 이용해서 택시기사들의 안전한 운전을 돕고자 합니다.
 
 
 
