@@ -57,7 +57,7 @@ IoT 기술을 이용하여, 이러한 문제점을 가진 기존 보호격막을
 
 ## 예상 시스템 구성도
 
-<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/시스템 .PNG" width="100%" height="100%">
+<img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.PNG" width="100%" height="100%">
 
 ###### 
 
