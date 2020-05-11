@@ -1,8 +1,3 @@
-/*
- *  This sketch sends a message to a TCP server
- *
- */
-
 #include <WiFi.h>
 #include <WiFiMulti.h>
 
@@ -11,20 +6,22 @@
 WiFiMulti WiFiMulti;
 #define ONE_WIRE_BUS 23
 
-
+int flag = 0;
 int trigPin = 25;
 int echoPin = 26;
 long duration;
 int distance;
+int volume;
+int soundGate = 34;
+
 void setup()
 {
     pinMode(trigPin, OUTPUT);
     pinMode(echoPin, INPUT);
-    
-   // delay(10);
+    pinMode(soundGate, INPUT);
 
     // We start by connecting to a WiFi network
-    WiFiMulti.addAP("TOMNTOMS1F", "TOMNTOMS4565");
+    WiFiMulti.addAP("ssong-2G", "ssong12345");
 
     Serial.println();
     Serial.println();
@@ -50,6 +47,7 @@ void loop()
     const uint16_t port = 8085;
     const char * host = "ec2-174-129-80-114.compute-1.amazonaws.com"; // ip or dns
     String get_data;
+    String get_sound_data;
    // sensors.requestTemperatures();
     digitalWrite(trigPin, LOW);
     delayMicroseconds(2);
@@ -58,11 +56,16 @@ void loop()
     digitalWrite(trigPin, LOW);
     duration = pulseIn(echoPin, HIGH);
     distance = duration*0.034/2;
+
+    ;
+    
     Serial.print("Distance: ");
     Serial.println(distance);
     get_data += "/distance_data?device_id=1&value=";
     get_data += distance;
-    Serial.print(get_data);
+    get_sound_data += "/sound_data?device_id=2&value=";
+    get_sound_data +=analogRead(soundGate);
+   // Serial.print(get_data);
     
     Serial.print("Connecting to ");
     Serial.println(host);
@@ -76,8 +79,17 @@ void loop()
         delay(5000);
         return;
     }
-    if(distance<=50){
-      client.print("GET " + get_data + " HTTP/1.1\n\n");
+    if(flag==0){
+      Serial.print(get_data);
+      if(distance<=150){
+        client.print("GET " + get_data + " HTTP/1.1\n\n");
+      }
+      flag = 1;
+    }
+    else if(flag==1){
+      Serial.print(get_sound_data);
+      client.print("GET " + get_sound_data + " HTTP/1.1\n\n");
+      flag = 0;
     }
     
 
