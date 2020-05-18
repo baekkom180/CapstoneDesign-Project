@@ -61,6 +61,9 @@ IoT 기술을 이용하여, 이러한 문제점을 가진 기존 보호격막을
 
 <img src="https://github.com/baekkom180/CapstoneDesign-Project/blob/master/images/system%20%ED%9D%90%EB%A6%84%EB%8F%84.JPG" width="100%" height="100%">
 
+## DB 스키마
+
+<img src="
 ###### 
 
 ## 기술 구현 단계
