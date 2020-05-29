@@ -1,7 +1,9 @@
-#include <ESP8266WiFi.h>
+//#include <ESP8266WiFi.h>
 //#include <string.h>
-const char *ssid = "sgwlan_guest";
-const char *password = "";
+#include <WiFi.h>
+#include <WiFiMulti.h>
+const char *ssid = "CROWD_2G";
+const char *password = "crowdcoffee1";
 
 const char* host = "ec2-174-129-80-114.compute-1.amazonaws.com";
 int led = 4;
@@ -12,7 +14,7 @@ void setup() {
 
   // We start by connecting to a WiFi network
   pinMode(led, OUTPUT);
-  digitalWrite(led, 1);
+ // digitalWrite(led, 1);
   
   Serial.println();
   Serial.println();
@@ -35,7 +37,7 @@ void setup() {
 int value = 0;
 
 void loop() {
-  delay(5000);
+//  delay(5000);
   ++value;
 
   Serial.print("connecting to ");
@@ -82,10 +84,14 @@ void loop() {
     if(line.equals(warning))
     {
       Serial.print("income!!\n");
-      digitalWrite(led, 0);
-      delay(1000);
+      //digitalWrite(led, 0);
+      //delay(1000);
       digitalWrite(led, 1);
-      delay(1000);
+      //delay(1000);
+    }
+    else
+    {
+      digitalWrite(led,0);
     }
   }
   
