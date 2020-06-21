@@ -94,7 +94,14 @@ IoT 기술을 이용하여, 이러한 문제점을 가진 기존 보호격막을
 데이터를 종합해서 팀원끼리 폭력사건을 재연하고 이 3가지 항목의 수치를 계산하여 공식 완성.   
 
 ## 시연 영상
-- https://www.youtube.com/watch?v=ES3JsgDgxBE&feature=youtu.be 
+- 간이 영상 https://www.youtube.com/watch?v=ES3JsgDgxBE&feature=youtu.be 
+- 격벽 움직이는 영상 https://www.youtube.com/watch?v=Y4wGCtL2KTo
+- 승객이 카드 결제만 하는 과정 https://www.youtube.com/watch?v=Hsjz-vv6uJo  //  https://www.youtube.com/watch?v=ihXlEs6MZz0
+- 뒷자석 승객이 폭행을 하는 경우 1. 온몸이 넘어와서 폭행하는 경우  https://www.youtube.com/watch?v=BVFLSDI5WQM
+                                2. 주먹만 넘어와서 폭행하는 경우  https://www.youtube.com/watch?v=DjcNbYQNrrE
+- 조수석 승객이 폭행을 하는 경우 1. 온몸이 넘어와서 폭행하는 경우  
+                                2. 주먹만 넘어와서 폭행하는 경우
+
 
 ## 기대성과
 일단 두 가지의 성과를 기대할 수 있을것이라 생각합니다.  
