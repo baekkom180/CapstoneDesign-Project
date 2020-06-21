@@ -99,8 +99,8 @@ IoT 기술을 이용하여, 이러한 문제점을 가진 기존 보호격막을
 - 승객이 카드 결제만 하는 과정 https://www.youtube.com/watch?v=Hsjz-vv6uJo  //  https://www.youtube.com/watch?v=ihXlEs6MZz0
 - 뒷자석 승객이 온몸이 넘어와서 폭행하는 경우  https://www.youtube.com/watch?v=BVFLSDI5WQM
 - 뒷자석 승객이 주먹만 넘어와서 폭행하는 경우  https://www.youtube.com/watch?v=DjcNbYQNrrE
-- 조수석 승객이 온몸이 넘어와서 폭행하는 경우  
-- 조수석 승객이 주먹만 넘어와서 폭행하는 경우
+- 조수석 승객이 온몸이 넘어와서 폭행하는 경우  https://www.youtube.com/watch?v=yJg_aW0CnPo
+- 조수석 승객이 주먹만 넘어와서 폭행하는 경우  https://www.youtube.com/watch?v=ZhNpAVKCXI8
 
 
 ## 기대성과
